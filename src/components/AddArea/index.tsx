@@ -18,7 +18,7 @@ export const AddArea = ({ onEnter }: Props) => {
 
     return(
         <Component.Container>
-            <div className="image">Add</div>
+            <div className="image">➕</div>
             <input 
                 type="text" 
                 placeholder='Adicione uma tarefa'
